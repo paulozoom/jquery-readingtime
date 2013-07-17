@@ -1,0 +1,27 @@
+{
+  "name":         "readingtime",
+  "title":        "jQuery Reading Time",
+  "description":  "jQuery plugin for estimating reading time of an element",
+  "keywords":     ["text", "reading"],
+  "version":      "0.1.0",
+
+  "author": {
+    "name":       "Paulo Zoom",
+    "url":        "http://paulozoom.com"
+  },
+
+  "licenses": [
+    {
+      "type": "MIT",
+      "url":  "http://opensource.org/licenses/MIT"
+    }
+  ],
+
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+
+  "homepage": "https://github.com/paulozoom/jquery-readingtime",
+  "docs":     "https://github.com/paulozoom/jquery-readingtime",
+  "bugs":     "https://github.com/paulozoom/jquery-readingtime/issues"
+}
