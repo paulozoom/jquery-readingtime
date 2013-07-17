@@ -5,14 +5,14 @@ jQuery Plugin to estimate the reading time of any element.
 
 ## Usage
 
-Call `.readingtime` on any element, it returns an *integer* with the estimated reading time in **minutes**.
+Call `.readingtime()` on any element, it returns an *integer* with the estimated reading time in **minutes**.
 
 If you call it on multiple elements, the plugin calculates reading time for the **first**.
 
 
 ## Examples
 
-Reading time on a **single** `article`.
+Reading time on a **single** element.
 ```javascript
 $("article:first").readingtime();
 ```
