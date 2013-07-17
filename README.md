@@ -1,7 +1,12 @@
 # jQuery Reading Time
 
-jQuery Plugin to estimate the reading time of any element.
+jQuery Plugin to estimate the reading time of any element, with configurable *words per minute*.
 
+## Installation
+
+- Raw source: [original](https://github.com/paulozoom/jquery-readingtime/blob/master/jquery.readingtime.js) / [minified](https://github.com/paulozoom/jquery-readingtime/blob/master/jquery.readingtime.min.js)
+- [Download repository as .zip](https://github.com/paulozoom/jquery-readingtime/archive/master.zip)
+- Bower: `bower install jquery-readingtime`
 
 ## Usage
 
