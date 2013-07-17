@@ -1,0 +1,19 @@
+{
+  "name": "jquery-readingtime",
+  "version": "0.1.0",
+  "main": "jquery.readingtime.min.js",
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests",
+    "*.jquery.json"
+  ],
+
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
