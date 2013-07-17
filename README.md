@@ -1,6 +1,6 @@
 # jQuery Reading Time
 
-jQuery Plugin to estimate the reading time of any element, with configurable *words per minute*.
+jQuery Plugin to estimate the reading time of any element.
 
 ## Installation
 
@@ -10,9 +10,9 @@ jQuery Plugin to estimate the reading time of any element, with configurable *wo
 
 ## Usage
 
-Call `.readingtime()` on any element, it returns an *integer* with the estimated reading time in **minutes**.
+Call `.readingtime()` on any element, and it **returns an integer** with the estimated reading time in **minutes**.  
 
-If you call it on multiple elements, the plugin calculates reading time for the **first**.
+**Note:** When called on multiple elements, it calculates reading time for the first element in the set.
 
 
 ## Examples
