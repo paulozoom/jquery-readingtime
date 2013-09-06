@@ -6,7 +6,7 @@
       round:  'round'
     }, options);
 
-    var words = $.trim(this.first().text()).split(/s+/).length;
+    var words = $.trim(this.first().text()).split(/\s+/).length;
     return Math[settings.round](words/settings.wpm);
   };
 }(jQuery));
