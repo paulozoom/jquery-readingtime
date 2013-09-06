@@ -2,12 +2,17 @@
 
 jQuery Plugin to estimate the reading time of any element.
 
+## Installation
+
+- Raw source: [original](https://raw.github.com/paulozoom/jquery-readingtime/master/jquery.readingtime.js) / [minified](https://raw.github.com/paulozoom/jquery-readingtime/master/jquery.readingtime.min.js)
+- [Download repository as .zip](https://github.com/paulozoom/jquery-readingtime/archive/master.zip)
+- Bower: `bower install jquery-readingtime`
 
 ## Usage
 
-Call `.readingtime()` on any element, it returns an *integer* with the estimated reading time in **minutes**.
+Call `.readingtime()` on any element, and it **returns an integer** with the estimated reading time in **minutes**.  
 
-If you call it on multiple elements, the plugin calculates reading time for the **first**.
+**Note:** When called on multiple elements, it calculates reading time for the first element in the set.
 
 
 ## Examples
