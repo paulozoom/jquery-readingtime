@@ -1,6 +1,6 @@
 {
   "name": "jquery-readingtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "jquery.readingtime.min.js",
 
   "ignore": [
@@ -14,6 +14,6 @@
   ],
 
   "dependencies": {
-    "jquery": ">=1.4"
+    "jquery": ">=1.4.0"
   }
 }
